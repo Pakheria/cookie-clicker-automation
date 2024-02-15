@@ -44,9 +44,3 @@ python cookie_clicker.py
 
 # Contributing
 Contributions are welcome! If you'd like to add new features, improve existing ones, or fix any issues, feel free to open a pull request.
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
