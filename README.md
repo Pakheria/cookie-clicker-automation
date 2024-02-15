@@ -1,37 +1,52 @@
-# cookie-clicker-automation
-Automate Cookie Clicker gameplay with Python script. Click to generate cookies &amp; purchase upgrades. Enhance gaming experience &amp; optimize cookie production.
 
-Cookie Clicker Automation Script
+# Cookie Clicker Automation Script
+
 This repository contains a Python script for automating gameplay in the popular browser-based game Cookie Clicker. The script allows users to automate the clicking process and purchase upgrades to optimize cookie production.
 
-Requirements
-  Python 3.x
-  Selenium WebDriver
-  Browser (Chrome, Firefox, etc.)
-Installation
+## Requirements
+1. Python 3.x
+- https://www.python.org/
+2. Selenium WebDriver
+- https://googlechromelabs.github.io/chrome-for-testing/
+3. Browser (Chrome, Firefox, etc.)
+
+## Installation
+
 Clone this repository to your local machine:
-bash
-Copy code
-git clone https://github.com/your-username/cookie-clicker-automation.git
+
+```bash
+  git clone https://github.com/pakheria/cookie-clicker-automation.git
+```
+
 Navigate to the project directory:
-bash
-Copy code
+```bash
 cd cookie-clicker-automation
+```
+
 Install the required dependencies using pip:
-bash
-Copy code
+
+```bash
 pip install -r requirements.txt
-Usage
-Make sure you have the appropriate web driver for your preferred browser installed and accessible in your system PATH.
+```
 
-Run the script:
+## Usage
+1. Make sure you have the appropriate web driver for your preferred browser installed and accessible in your system PATH.
 
-bash
-Copy code
+2. Run the script:
+
+```bash
 python cookie_clicker.py
-The script will automatically open the browser and start playing Cookie Clicker.
+```
 
-You can adjust the parameters in the script to customize the gameplay experience, such as the clicking interval and the purchase strategy for upgrades.
+3. The script will automatically open the browser and start playing Cookie Clicker.
 
-Contributing
+4. You can adjust the parameters in the script to customize the gameplay experience, such as the clicking interval and the purchase strategy for upgrades.
+
+# Contributing
 Contributions are welcome! If you'd like to add new features, improve existing ones, or fix any issues, feel free to open a pull request.
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
